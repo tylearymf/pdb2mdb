@@ -9,3 +9,6 @@
 /pdb2mdb/obj/Release/pdb2mdb.csproj.GenerateResource.cache
 /pdb2mdb/obj/Release/pdb2mdb.exe
 /pdb2mdb/obj/Release/pdb2mdb.pdb
+/.vs
+/packages
+/pdb2mdb/obj
